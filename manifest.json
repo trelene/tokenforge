@@ -264,6 +264,18 @@
       "verified": false,
       "vendor": "Yes-Coin.com TEAM",
       "external_url": "https://yes-coin.com/"
+    },
+    {
+      "name": "VenomPepe",
+      "chainId": 1,
+      "symbol": "VPEPE",
+      "decimals": 9,
+      "address": "0:40cafa1d1fd2a1d2eda1511f2f50a54edd5bc0f228de6ef243b54d8b8708a720",
+      "logoURI": "https://github.com/venom-blockchain/tokenforge/assets/145878061/996c5086-d3d7-4320-acdc-608e4b22d4ee",
+      "version": 5,
+      "verified": false,
+      "vendor": "Venom Pepe TEAM",
+      "external_url": "https://venompepe.xyz/"
     }
   ]
 }
